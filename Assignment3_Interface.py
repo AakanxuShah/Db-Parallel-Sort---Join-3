@@ -1,6 +1,7 @@
 #!/usr/bin/python2.7
 #
-# Assignment3 Interface
+# CSE 592
+# Author : Aakanxu Shah
 #
 
 import psycopg2
@@ -394,3 +395,5 @@ if __name__ == '__main__':
 
     except Exception as detail:
         print "Something bad has happened!!! This is the error ==> ", detail
+        
+#Disclaimer for students: Be Original and do not Plagarize ! :) 
